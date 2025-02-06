@@ -5,7 +5,11 @@
       "dest": "/"
     },
     {
-      "src": "/(.*)",
+      "src": "/login",
+      "dest": "/"
+    },
+    {
+      "src": "/signup",
       "dest": "/"
     }
   ]
